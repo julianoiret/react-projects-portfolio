@@ -6,7 +6,7 @@ html {
 
 body {
     background: rgb(2,0,36);
-    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(134,105,176,1) 25%, rgba(45,38,128,1) 59%, rgba(5,15,51,1) 89%, rgba(22,29,99,1) 100%);
+    background: linear-gradient(5deg, rgba(2,0,36,1) 0%, rgba(64,48,160,1) 25%, rgba(45,38,128,1) 59%, rgba(5,15,51,1) 89%, rgba(22,29,99,1) 100%);
     color: #ffffff;
 }
 
